@@ -1,5 +1,7 @@
 # Homematic-Manager
-Dieses Release enthält lediglich das neu erzeugte Binärpaket von Hobbyquaker's [Homematic-Manager](https://github.com/hobbyquaker/homematic-manager) in der Version 2.7.0 mit dem im [Issue 121](https://github.com/hobbyquaker/homematic-manager/issues/121#issuecomment-749725958) beschriebenen Timeout-Workaround beim Start.
+Dieses Release enthält lediglich das neu erzeugte Binärpaket von Hobbyquaker's in der Version 2.7.0 mit dem im [Issue 121](https://github.com/hobbyquaker/homematic-manager/issues/121#issuecomment-749725958) beschriebenen Timeout-Workaround beim Start.
+
+Der unmodifizierte Quelltext ist in Sebastian "Hobbyquaker" Raff's [Homematic-Manager Repository](https://github.com/hobbyquaker/homematic-manager) zu finden.
 
 ## Lizenz
 
